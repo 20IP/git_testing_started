@@ -10,3 +10,5 @@ def model_02():
     
 def model_03():
     print('Processing model_03')
+    
+print(' Comparing 3 model, which is the better ?')
